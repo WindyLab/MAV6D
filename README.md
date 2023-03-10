@@ -1,6 +1,6 @@
 # MAV6D
 
-This is the repository for the paper "MAV6D: Keypoint-Guided Efficient 6D Pose Estimation of Micro Aerial Vehicles with Monocular Vision".
+This is the repository for the paper "Keypoint-Guided Efficient Pose Estimation and Domain Adaptation for Micro Aerial Vehicles".
 
 The link to the dataset present in the paper: https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/EkrnS8qa6tpLmjUKE5xJ6FkBAfm9NWby8nL5blPgPBdTCQ?e=d3bSdT.
 
