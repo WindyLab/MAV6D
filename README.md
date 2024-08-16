@@ -1,4 +1,17 @@
-# MAV6D
+<div align="center">
+  <h1>Keypoint-Guided Efficient Pose Estimation and Domain Adaptation for Micro Aerial Vehicles</h1>
+
+<p align="center">
+  <a href="https://ieeexplore.ieee.org/document/10530350">
+    <img src="https://img.shields.io/badge/Paper-blue?logo=googledocs&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://www.bilibili.com/video/BV1XD421M7t9/?spm_id_from=333.999.0.0&vd_source=0eec9f8ad388935277d70e12aac978ba">
+    <img src="https://img.shields.io/badge/Video-blue?logo=bilibili&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://www.youtube.com/watch?v=ppTR65gGlgg">
+    <img src="https://img.shields.io/badge/Video-blue?logo=youtube&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>
+</div>
 
 This is the repository for the paper "Keypoint-Guided Efficient Pose Estimation and Domain Adaptation for Micro Aerial Vehicles".
 
