@@ -15,6 +15,10 @@
 
 This is the repository for the paper "Keypoint-Guided Efficient Pose Estimation and Domain Adaptation for Micro Aerial Vehicles".
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b3145469-c23a-49f4-8aea-52ab87aad59f"></a>
+</div>
+
 The link to the dataset present in the paper: https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/EkrnS8qa6tpLmjUKE5xJ6FkBAfm9NWby8nL5blPgPBdTCQ?e=d3bSdT.
 
 This dataset includes RGB images, labels of different formats, and mask images.
